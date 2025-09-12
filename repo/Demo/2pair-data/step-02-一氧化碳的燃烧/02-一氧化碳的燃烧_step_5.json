@@ -1,0 +1,42 @@
+{
+  "title_zh": "一氧化碳的燃烧",
+  "title_en": "Combustion of Carbon Monoxide",
+  "original_video": "/home/devdata/Dataset/Exp-Com/4k/4k_0/source_video/chemistry/ch_67/02-一氧化碳的燃烧.mp4",
+  "clip_start": "0:00:36",
+  "clip_end": "0:00:48",
+  "step_zh": "分析实验现象，确认一氧化碳燃烧生成二氧化碳，并与石灰水反应生成碳酸钙",
+  "step_en": "Analyze the experimental phenomena to confirm that carbon monoxide combustion produces carbon dioxide, which reacts with limewater to form calcium carbonate",
+  "step_number": 5,
+  "clip_video_path": "/home/devdata/Dataset/Exp-Com/4k/4k_1/processed/chemistry/ch_67/video/02-一氧化碳的燃烧/02-一氧化碳的燃烧_step_5.mp4",
+  "subject": "chemistry",
+  "annotations": [
+    {
+      "id": 10,
+      "startTime": "0:00:36",
+      "endTime": "0:00:40",
+      "text": "这是因为一氧化碳在空气中燃烧",
+      "text_en": "This occurs because carbon monoxide combusts in air"
+    },
+    {
+      "id": 11,
+      "startTime": "0:00:40",
+      "endTime": "0:00:41",
+      "text": "生成二氧化碳",
+      "text_en": "Producing carbon dioxide"
+    },
+    {
+      "id": 12,
+      "startTime": "0:00:41",
+      "endTime": "0:00:44",
+      "text": "二氧化碳与石灰水反应",
+      "text_en": "The carbon dioxide reacts with limewater"
+    },
+    {
+      "id": 13,
+      "startTime": "0:00:44",
+      "endTime": "0:00:48",
+      "text": "生成不溶于水的白色碳酸钙固体",
+      "text_en": "Forming white calcium carbonate solid insoluble in water"
+    }
+  ]
+}

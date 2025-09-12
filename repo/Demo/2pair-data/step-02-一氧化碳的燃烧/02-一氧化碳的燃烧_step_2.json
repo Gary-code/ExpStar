@@ -1,0 +1,32 @@
+{
+  "title_zh": "一氧化碳的燃烧",
+  "title_en": "Combustion of Carbon Monoxide",
+  "original_video": "/home/devdata/Dataset/Exp-Com/4k/4k_0/source_video/chemistry/ch_67/02-一氧化碳的燃烧.mp4",
+  "clip_start": "0:00:11",
+  "clip_end": "0:00:16",
+  "step_zh": "旋开储气瓶导管上的活塞，排出一氧化碳",
+  "step_en": "Open the piston on the gas cylinder's conduit to release carbon monoxide",
+  "step_number": 2,
+  "clip_video_path": "/home/devdata/Dataset/Exp-Com/4k/4k_1/processed/chemistry/ch_67/video/02-一氧化碳的燃烧/02-一氧化碳的燃烧_step_2.mp4",
+  "subject": "chemistry",
+  "annotations": [
+    {
+      "id": 3,
+      "startTime": "0:00:11",
+      "endTime": "0:00:12",
+      "text": "旋开此储气瓶",
+      "text_en": "Turn the valve of this gas cylinder",
+      "safety_en": "Confirm no open flames in the vicinity before operation. Use explosion-proof tools to slowly open the valve.",
+      "safety_zh": "操作前需确认周边无明火，使用防爆工具缓慢开启阀门"
+    },
+    {
+      "id": 4,
+      "startTime": "0:00:12",
+      "endTime": "0:00:16",
+      "text": "导管上的活塞排出一氧化碳",
+      "text_en": "The piston on the conduit releases carbon monoxide",
+      "safety_en": "Control the gas flow rate and ensure the laboratory's forced ventilation system remains operational.",
+      "safety_zh": "需控制气体流速，保持实验室强制通风系统开启"
+    }
+  ]
+}

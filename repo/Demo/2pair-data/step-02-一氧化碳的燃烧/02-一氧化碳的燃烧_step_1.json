@@ -1,0 +1,32 @@
+{
+  "title_zh": "一氧化碳的燃烧",
+  "title_en": "Combustion of Carbon Monoxide",
+  "original_video": "/home/devdata/Dataset/Exp-Com/4k/4k_0/source_video/chemistry/ch_67/02-一氧化碳的燃烧.mp4",
+  "clip_start": "0:00:02",
+  "clip_end": "0:00:11",
+  "step_zh": "准备盛满一氧化碳气体的储气瓶",
+  "step_en": "Prepare a gas cylinder filled with carbon monoxide",
+  "step_number": 1,
+  "clip_video_path": "/home/devdata/Dataset/Exp-Com/4k/4k_1/processed/chemistry/ch_67/video/02-一氧化碳的燃烧/02-一氧化碳的燃烧_step_1.mp4",
+  "subject": "chemistry",
+  "annotations": [
+    {
+      "id": 1,
+      "startTime": "0:00:02",
+      "endTime": "0:00:04",
+      "text": "一氧化碳的燃烧",
+      "text_en": "The combustion of carbon monoxide",
+      "safety_en": "Must be operated in a fume hood. Check the airtightness of the setup before experiment. Carbon monoxide is flammable and highly toxic. Leakage may cause poisoning and explosion.",
+      "safety_zh": "必须在通风橱中操作，实验前需检查装置气密性。一氧化碳易燃且剧毒，泄漏可能导致中毒及爆炸",
+      "principle_zh": "2CO + O2 → 2CO2",
+      "principle_en": "2CO + O2 → 2CO2"
+    },
+    {
+      "id": 2,
+      "startTime": "0:00:06",
+      "endTime": "0:00:10",
+      "text": "这是一只盛满一氧化碳气体的储气瓶",
+      "text_en": "This is a gas cylinder filled with carbon monoxide gas"
+    }
+  ]
+}

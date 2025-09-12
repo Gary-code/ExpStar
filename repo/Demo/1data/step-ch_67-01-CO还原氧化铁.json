@@ -1,0 +1,82 @@
+{
+    "summary": "本实验通过一氧化碳还原氧化铁，观察到氧化铁被还原成铁，并生成二氧化碳使澄清石灰水变浑浊。实验过程中，先通入一氧化碳排尽空气，加热氧化铁后观察到颜色变化，最后冷却停止实验。",
+    "steps": [
+        {
+            "step": 1,
+            "step_zh": "准备实验装置，硬质玻璃管中装入红色氧化铁粉末，锥形瓶中装入澄清石灰水。",
+            "step_en": "Prepare the experimental setup, fill the hard glass tube with red iron oxide powder, and fill the conical flask with clear lime water.",
+            "ASR_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "startTime": "0:00:01",
+            "endTime": "0:00:25"
+        },
+        {
+            "step": 2,
+            "step_zh": "检查装置气密性，通入一氧化碳排尽装置中的空气。",
+            "step_en": "Check the airtightness of the setup, and introduce carbon monoxide to expel the air from the apparatus.",
+            "ASR_id": [
+                6,
+                7,
+                8
+            ],
+            "startTime": "0:00:25",
+            "endTime": "0:00:38"
+        },
+        {
+            "step": 3,
+            "step_zh": "点燃酒精喷灯，加热玻璃管中的氧化铁粉末。",
+            "step_en": "Ignite the alcohol burner and heat the iron oxide powder in the glass tube.",
+            "ASR_id": [
+                9,
+                10,
+                11
+            ],
+            "startTime": "0:00:38",
+            "endTime": "0:00:48"
+        },
+        {
+            "step": 4,
+            "step_zh": "观察氧化铁被还原成铁，澄清石灰水变浑浊。",
+            "step_en": "Observe the reduction of iron oxide to iron, and the clear lime water turning cloudy.",
+            "ASR_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "startTime": "0:00:48",
+            "endTime": "0:01:00"
+        },
+        {
+            "step": 5,
+            "step_zh": "反应结束后，撤去酒精喷灯，继续通入一氧化碳冷却混合物。",
+            "step_en": "After the reaction is complete, remove the alcohol burner and continue to introduce carbon monoxide to cool the mixture.",
+            "ASR_id": [
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "startTime": "0:01:00",
+            "endTime": "0:01:12"
+        },
+        {
+            "step": 6,
+            "step_zh": "停止实验，观察氧化铁完全还原成黑色的铁。",
+            "step_en": "Stop the experiment and observe the complete reduction of iron oxide to black iron.",
+            "ASR_id": [
+                22,
+                23
+            ],
+            "startTime": "0:01:12",
+            "endTime": "0:01:18"
+        }
+    ]
+}
