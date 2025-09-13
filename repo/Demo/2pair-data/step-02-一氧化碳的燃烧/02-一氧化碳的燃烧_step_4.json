@@ -1,0 +1,37 @@
+{
+  "title_zh": "一氧化碳的燃烧",
+  "title_en": "Combustion of Carbon Monoxide",
+  "original_video": "/home/devdata/Dataset/Exp-Com/4k/4k_0/source_video/chemistry/ch_67/02-一氧化碳的燃烧.mp4",
+  "clip_start": "0:00:25",
+  "clip_end": "0:00:36",
+  "step_zh": "用蘸有澄清石灰水的烧杯罩在火焰上，观察石灰水变化",
+  "step_en": "Cover the flame with a beaker containing clear limewater and observe the changes in the limewater",
+  "step_number": 4,
+  "clip_video_path": "/home/devdata/Dataset/Exp-Com/4k/4k_1/processed/chemistry/ch_67/video/02-一氧化碳的燃烧/02-一氧化碳的燃烧_step_4.mp4",
+  "subject": "chemistry",
+  "annotations": [
+    {
+      "id": 7,
+      "startTime": "0:00:25",
+      "endTime": "0:00:28",
+      "text": "用一支内壁蘸有澄清的石灰水",
+      "text_en": "Use a beaker coated with clear limewater on its inner wall"
+    },
+    {
+      "id": 8,
+      "startTime": "0:00:28",
+      "endTime": "0:00:33",
+      "text": "烧杯罩在火焰上观察过一会儿",
+      "text_en": "Cover the flame with the beaker and observe after a moment"
+    },
+    {
+      "id": 9,
+      "startTime": "0:00:33",
+      "endTime": "0:00:36",
+      "text": "烧杯壁上澄清的石灰水变浑浊",
+      "text_en": "The clear limewater on the beaker's wall turns cloudy",
+      "principle_zh": "CO2 + Ca(OH)2 → CaCO3↓ + H2O",
+      "principle_en": "CO2 + Ca(OH)2 → CaCO3↓ + H2O"
+    }
+  ]
+}

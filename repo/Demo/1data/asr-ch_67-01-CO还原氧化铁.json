@@ -1,0 +1,200 @@
+{
+    "subtitles": [
+        {
+            "id": 1,
+            "startTime": "0:00:01",
+            "endTime": "0:00:03",
+            "text": "一氧化碳还原氧化铁",
+            "text_en": "Reduction of Iron Oxide with Carbon Monoxide",
+            "step": 1
+        },
+        {
+            "id": 2,
+            "startTime": "0:00:06",
+            "endTime": "0:00:08",
+            "text": "这是一套用一氧化碳还原",
+            "text_en": "This is an experimental setup using carbon monoxide to reduce",
+            "step": 1
+        },
+        {
+            "id": 3,
+            "startTime": "0:00:08",
+            "endTime": "0:00:10",
+            "text": "氧化铁的实验装置",
+            "text_en": "iron oxide in this apparatus",
+            "step": 1
+        },
+        {
+            "id": 4,
+            "startTime": "0:00:11",
+            "endTime": "0:00:16",
+            "text": "硬质玻璃管中部装有少量红色氧化铁粉末",
+            "text_en": "The middle section of the hard glass tube contains a small amount of red iron oxide powder",
+            "step": 1
+        },
+        {
+            "id": 5,
+            "startTime": "0:00:18",
+            "endTime": "0:00:22",
+            "text": "锥形瓶中装有澄清的石灰水",
+            "text_en": "The conical flask contains clear limewater",
+            "step": 1
+        },
+        {
+            "id": 6,
+            "startTime": "0:00:25",
+            "endTime": "0:00:29",
+            "text": "装置末端用酒精灯点燃多余的一氧化碳",
+            "text_en": "Excess carbon monoxide is ignited with an alcohol lamp at the end of the apparatus",
+            "safety_zh": "应使用气球收集或尾气处理装置替代直接点燃，因一氧化碳有毒且易燃易爆",
+            "safety_en": "A balloon collection or exhaust treatment system should replace direct ignition, as CO is toxic, flammable, and explosive",
+            "step": 2
+        },
+        {
+            "id": 7,
+            "startTime": "0:00:31",
+            "endTime": "0:00:33",
+            "text": "经检查气密性良好后",
+            "text_en": "After confirming the system is airtight",
+            "step": 2
+        },
+        {
+            "id": 8,
+            "startTime": "0:00:33",
+            "endTime": "0:00:37",
+            "text": "先通入一氧化碳排尽装置中的空气",
+            "text_en": "First, introduce CO to purge air from the system",
+            "safety_zh": "必须预先排空氧气防止CO与空气混合高温爆炸",
+            "safety_en": "Pre-purge oxygen to prevent explosive CO-air mixtures at high temperatures",
+            "step": 2
+        },
+        {
+            "id": 9,
+            "startTime": "0:00:38",
+            "endTime": "0:00:41",
+            "text": "这时锥形瓶中的石灰水不变浑浊",
+            "text_en": "The limewater remains clear at this stage",
+            "step": 3
+        },
+        {
+            "id": 10,
+            "startTime": "0:00:42",
+            "endTime": "0:00:44",
+            "text": "然后点燃酒精喷灯",
+            "text_en": "Then ignite the alcohol burner",
+            "step": 3
+        },
+        {
+            "id": 11,
+            "startTime": "0:00:44",
+            "endTime": "0:00:47",
+            "text": "加热玻璃管中的红色氧化铁粉末",
+            "text_en": "Heat the red iron oxide powder in the glass tube",
+            "step": 3
+        },
+        {
+            "id": 12,
+            "startTime": "0:00:48",
+            "endTime": "0:00:49",
+            "text": "片刻后",
+            "text_en": "After some time",
+            "step": 4
+        },
+        {
+            "id": 13,
+            "startTime": "0:00:49",
+            "endTime": "0:00:52",
+            "text": "观察到玻璃管中的红色氧化铁",
+            "text_en": "The red iron oxide in the tube is observed",
+            "step": 4
+        },
+        {
+            "id": 14,
+            "startTime": "0:00:52",
+            "endTime": "0:00:55",
+            "text": "被一氧化碳还原成黑色的铁",
+            "text_en": "being reduced by CO to black metallic iron",
+            "principle_zh": "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+            "step": 4,
+            "principle_en": "Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+        },
+        {
+            "id": 15,
+            "startTime": "0:00:55",
+            "endTime": "0:00:57",
+            "text": "同时生成的二氧化碳",
+            "text_en": "Simultaneously produced carbon dioxide",
+            "step": 4
+        },
+        {
+            "id": 16,
+            "startTime": "0:00:57",
+            "endTime": "0:01:00",
+            "text": "使澄清的石灰水变浑浊",
+            "text_en": "turns the limewater turbid",
+            "principle_zh": "Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O",
+            "step": 4,
+            "principle_en": "Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O"
+        },
+        {
+            "id": 17,
+            "startTime": "0:01:00",
+            "endTime": "0:01:03",
+            "text": "待一氧化碳还原氧化铁的反应结束后",
+            "text_en": "After the reduction reaction completes",
+            "step": 5
+        },
+        {
+            "id": 18,
+            "startTime": "0:01:03",
+            "endTime": "0:01:05",
+            "text": "先撤去酒精喷灯",
+            "text_en": "First remove the alcohol burner",
+            "safety_zh": "防止高温铁粉接触氧气发生二次氧化甚至爆炸",
+            "safety_en": "Prevent secondary oxidation/explosion from hot iron contacting oxygen",
+            "step": 5
+        },
+        {
+            "id": 19,
+            "startTime": "0:01:05",
+            "endTime": "0:01:07",
+            "text": "继续通入一氧化碳",
+            "text_en": "Continue CO flow",
+            "safety_zh": "维持保护性气氛直至体系冷却，避免空气倒吸引发危险",
+            "safety_en": "Maintain protective atmosphere until cooling to prevent air backflow",
+            "step": 5
+        },
+        {
+            "id": 20,
+            "startTime": "0:01:07",
+            "endTime": "0:01:09",
+            "text": "在硬质玻璃管中的反应",
+            "text_en": "The reaction in the hard glass tube",
+            "step": 5
+        },
+        {
+            "id": 21,
+            "startTime": "0:01:09",
+            "endTime": "0:01:12",
+            "text": "混合物冷却后停止实验",
+            "text_en": "concludes after mixture cooling",
+            "step": 5
+        },
+        {
+            "id": 22,
+            "startTime": "0:01:12",
+            "endTime": "0:01:15",
+            "text": "观察到原来红色的氧化铁粉末",
+            "text_en": "The originally red iron oxide powder",
+            "step": 6
+        },
+        {
+            "id": 23,
+            "startTime": "0:01:15",
+            "endTime": "0:01:18",
+            "text": "已经被完全还原成黑色的铁了",
+            "text_en": "is completely reduced to black iron",
+            "step": 6
+        }
+    ]
+}
